@@ -1,4 +1,3 @@
-# github.io
 
 # Hi, I'm Trong Phuc 👋
 
